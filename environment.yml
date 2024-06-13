@@ -1,0 +1,13 @@
+name: sparql
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipykernel
+  - matplotlib==3.8.4
+  - pandas==2.2.2
+  - pip
+  - python=3.11
+  - sparqlwrapper==2.0.0
+variables:
+  PYTHONNOUSERSITE: '1'
