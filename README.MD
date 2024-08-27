@@ -6,22 +6,23 @@ The dblp KG aims to make all semantic relationships modeled in the **dblp comput
 
 The dblp KG is not merely based on a one-time snapshot of dblp data, but is actively synchronized with the current data. In particular, the dblp KG benefits from the continuing curation work of the dblp team.
 
-# dblp KG documentation
+# dblp KG Documentation
 - [dblp RDF schema docs](https://dblp.org/rdf/docu/)
 - TGDK 2024 paper (to appear)
 
-# Tutorials and resources
+# Tutorials and Resources
 - [dblp KG Wiki Home Page](https://github.com/dblp/kg/wiki)
 - dblp KG tutorial with examples (todo)
 - [SPARQL Example Notebook](https://github.com/dblp/kg/blob/main/sparql-example.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dblp/kg/HEAD?labpath=sparql-example.ipynb)
 - [Setting up your own dblp SPARQL endpoint](https://github.com/dblp/kg/wiki/SPARQL-server-setup)
+- [Known issues](https://github.com/dblp/kg/wiki/Known-Issues)
 
 # Community
-- For discussions about the dblp KG and SPARQlk endpouint, please use the [GitHub Discussions Page](https://github.com/dblp/kg/discussions)
+- [GitHub Discussions Page](https://github.com/dblp/kg/discussions) may be used by the community for discussions about the dblp KG and its SPARQL endpouint
 
 # Publications
 
-## TGDK 2024 paper
+## TGDK 2024 Paper
 - [Additional resources](https://github.com/dblp/kg/wiki/Paper-TGDK-2024)
 
 ## Blog Posts
