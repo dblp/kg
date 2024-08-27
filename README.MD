@@ -1,4 +1,4 @@
-<img src="dblp-kg.png" width="557px" />
+<img src="dblp-kg-logo.png" width="557px" />
 
 In this repository you will find information about the **dblp Knowledge Graph (dblp KG)** and its SPARQL endpoint (https://sparql.dblp.org).
 
