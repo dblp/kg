@@ -7,7 +7,7 @@ The dblp KG aims to make all semantic relationships modeled in the **dblp comput
 The dblp KG is not merely based on a one-time snapshot of dblp data, but is actively synchronized with the current data. In particular, the dblp KG benefits from the continuing curation work of the dblp team.
 
 # dblp KG documentation
-- [dblp KG RDF schema docs](https://dblp.org/rdf/docu/)
+- [dblp RDF schema docs](https://dblp.org/rdf/docu/)
 - TGDK 2024 paper (to appear)
 
 # Tutorials and resources
