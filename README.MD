@@ -20,7 +20,7 @@ The dblp KG is not merely based on a one-time snapshot of dblp data, but is acti
 # Community
 - [GitHub Discussions Page](https://github.com/dblp/kg/discussions) may be used for discussions about the dblp KG and its SPARQL endpouint
 
-# Publications
+# Publications about the dblp KG
 
 ## TGDK 2024 Paper
 - [Additional resources](https://github.com/dblp/kg/wiki/Paper-TGDK-2024)
