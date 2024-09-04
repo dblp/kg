@@ -15,7 +15,7 @@ The dblp KG is not merely based on a one-time snapshot of dblp data, but is acti
 - [dblp KG tutorial with examples](https://github.com/dblp/kg/wiki/dblp-KG-tutorial)
 - [SPARQL Example Notebook](https://github.com/dblp/kg/blob/main/sparql-example.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dblp/kg/HEAD?labpath=sparql-example.ipynb)
 - [Setting up your own dblp SPARQL endpoint](https://github.com/dblp/kg/wiki/SPARQL-server-setup)
-- [Known issues](https://github.com/dblp/kg/wiki/Known-Issues)
+- [Known issues and limitations](https://github.com/dblp/kg/wiki/Known-Issues)
 
 # Community
 - [GitHub Discussions Page](https://github.com/dblp/kg/discussions) may be used for discussions about the dblp KG and its SPARQL endpouint
