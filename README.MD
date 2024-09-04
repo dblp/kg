@@ -27,5 +27,6 @@ The dblp KG is not merely based on a one-time snapshot of dblp data, but is acti
 - [Additional resources](https://github.com/dblp/kg/wiki/Paper-TGDK-2024)
 
 ## Blog Posts
+- <https://blog.dblp.org/2024/06/14/the-dblp-knowledge-graph-major-extension-and-an-update-to-the-rdf-schema/>
 - <https://blog.dblp.org/2022/09/09/updates-to-the-dblp-rdf-schema/>
 - <https://blog.dblp.org/2022/03/02/dblp-in-rdf/>
