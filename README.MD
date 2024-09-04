@@ -18,7 +18,7 @@ The dblp KG is not merely based on a one-time snapshot of dblp data, but is acti
 - [Known issues and limitations](https://github.com/dblp/kg/wiki/Known-Issues)
 
 # Community
-- [GitHub Discussions Page](https://github.com/dblp/kg/discussions) may be used for discussions about the dblp KG and its SPARQL endpouint
+- [GitHub Discussions Page](https://github.com/dblp/kg/discussions) may be used for discussions about the dblp KG and its SPARQL endpoint
 
 # Publications about the dblp KG
 
