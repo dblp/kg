@@ -23,7 +23,7 @@ The dblp KG is not merely based on a one-time snapshot of dblp data, but is acti
 # Publications about the dblp KG
 
 ## TGDK 2024 Paper
-- TGDK 2024 paper (to appear)
+- [TGDK 2024 paper](https://doi.org/10.4230/TGDK.2.2.3)
 - [Additional resources](https://github.com/dblp/kg/wiki/Paper-TGDK-2024)
 
 ## Blog Posts
