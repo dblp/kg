@@ -8,7 +8,7 @@ The dblp KG is not merely based on a one-time snapshot of dblp data, but is acti
 
 # dblp KG Documentation
 - [dblp RDF schema docs](https://dblp.org/rdf/docu/)
-- TGDK 2024 paper (to appear)
+- [TGDK 2024 paper](https://doi.org/10.4230/TGDK.2.2.3)
 
 # Tutorials and Resources
 - [dblp KG Wiki Home Page](https://github.com/dblp/kg/wiki)
